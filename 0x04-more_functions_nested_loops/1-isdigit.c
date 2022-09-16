@@ -14,5 +14,3 @@ return (1);
 }
 return (0);
 }
-Footer
-© 2022 Git
